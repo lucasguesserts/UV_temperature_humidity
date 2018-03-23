@@ -23,7 +23,11 @@ Open the [arduino program file](https://github.com/lucasguesserts/UV_temperature
 ## Reference
 
 [ML 8511 datasheet](https://www.mcs.anl.gov/research/projects/waggle/downloads/datasheets/lightsense/ml8511.pdf).
+
 [ML 8511 how to use](https://learn.sparkfun.com/tutorials/ml8511-uv-sensor-hookup-guide).
+
 [How to use a lcd display](https://www.arduino.cc/en/Tutorial/HelloWorld).
+
 [Lcd display explayned](https://youtu.be/85LvW1QDLLw).
+
 [How to use DHT11 (portuguese)](https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/).
