@@ -22,6 +22,10 @@ Open the [arduino program file](https://github.com/lucasguesserts/UV_temperature
 
 ## Diagram
 
+![diagram](images/first_functional_diagram.jpg "Diagram")
+
+![photo](images/first_functional.jpg "Photo")
+
 There is a [fritzing diagram](https://github.com/lucasguesserts/UV_temperature_humidity/blob/master/diagram.fzz) that describes how to mount it. It can be opened with [fritzing](http://fritzing.org/home/).
 
 ## Reference
