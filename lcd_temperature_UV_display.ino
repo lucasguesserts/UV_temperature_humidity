@@ -33,8 +33,8 @@ void loop() {
 	int uvLevel = analogRead(UV_OUT);
 	int refLevel = analogRead(UV_REF_3V3);
 	float outputVoltage = 3.3 / refLevel * uvLevel; /* Use the 3.3V power pin as a reference to get a very accurate output value from sensor */
-	float uvIntensity = mapfloat(outputVoltage, 0, 5, 0.0, 15.0); /* Convert the voltage to a UV intensity level */
-
+	float uvIntensity = mapfloat(outputVoltage, 1, 2.8, 0.0, 15.0); /* Convert the voltage to a UV intensity level */
+	if(uvIntensity<0) uvIntensity = 0.0;
 	/* display */
 	/* Temperature */
 	lcd.setCursor(0, 0);
@@ -84,4 +84,3 @@ float mapfloat(float x, float in_min, float in_max, float out_min, float out_max
 {
 	return ((x - in_min) / (in_max - in_min)) * (out_max - out_min) + out_min;
 }
-
