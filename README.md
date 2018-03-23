@@ -1,5 +1,7 @@
 # UV, Temperature and Humidity Measurer
 
+This version was not tested.
+
 Arduino project of a UV, temperature and humidity measurer with display.
 
 ## Hardware Requirement
@@ -23,8 +25,6 @@ Open the [arduino program file](https://github.com/lucasguesserts/UV_temperature
 ## Diagram
 
 <img src="images/not_tested_diagram.jpg" width="600" />
-
-<img src="images/first_functional.jpg" width="600" />
 
 There is a [fritzing diagram](https://github.com/lucasguesserts/UV_temperature_humidity/blob/master/diagram.fzz) that describes how to mount it. It can be opened with [fritzing](http://fritzing.org/home/).
 
