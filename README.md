@@ -20,6 +20,10 @@ If you'd like to use it without being connected to computer, a 9V battery and cl
 
 Open the [arduino program file](https://github.com/lucasguesserts/UV_temperature_humidity/blob/master/lcd_temperature_UV_display.ino) and add the library file [library file](https://github.com/lucasguesserts/UV_temperature_humidity/blob/master/lib.zip), "sketch -> import library -> add library -> select the zip file".
 
+## Diagram
+
+There is a [fritzing diagram](https://github.com/lucasguesserts/UV_temperature_humidity/blob/master/diagram.fzz) that describes how to mount it. It can be opened with [fritzing](http://fritzing.org/home/).
+
 ## Reference
 
 [ML 8511 datasheet](https://www.mcs.anl.gov/research/projects/waggle/downloads/datasheets/lightsense/ml8511.pdf).
