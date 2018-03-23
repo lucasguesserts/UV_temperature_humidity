@@ -22,7 +22,7 @@ Open the [arduino program file](https://github.com/lucasguesserts/UV_temperature
 
 ## Diagram
 
-<img src="images/first_functional_diagram.jpg" width="600" />
+<img src="images/not_tested_diagram.jpg" width="600" />
 
 <img src="images/first_functional.jpg" width="600" />
 
